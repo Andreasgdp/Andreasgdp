@@ -3,7 +3,7 @@
 ## I'm a Student and Developer!
 
 - 🔭 I’m currently working on a website [Online Help List][OHL]!
--  I’m in the middle of starting a new company [BHelpful][BHelpful]!
+- 📑 I’m in the middle of starting a new company [BHelpful][BHelpful]!
 - 🌱 Doing my best to learn new things every day
 - 👯 Looking to collaborate with others
 - 🥅 2020 Goals: Contribute more to Open Source projects
