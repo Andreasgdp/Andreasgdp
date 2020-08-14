@@ -55,4 +55,4 @@
 [instagram]: https://www.instagram.com/andreasgdp/
 [linkedin]: https://www.linkedin.com/in/andreas-g-d-petersen-11707518b/
 [OHL]: https://onlinehelplist.pythonanywhere.com/
-[OHL]: https://github.com/BHelpful
+[BHelpful]: https://github.com/BHelpful
