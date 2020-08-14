@@ -3,8 +3,9 @@
 ## I'm a Student and Developer!
 
 - 🔭 I’m currently working on a website [Online Help List][OHL]!
-- 🌱 I’m doing my best to learn new things every day
-- 👯 I’m looking to collaborate with others
+- 🔭 I’m in the middle of starting a new company [BHelpful][BHelpful]!
+- 🌱 Doing my best to learn new things every day
+- 👯 Looking to collaborate with others
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and design
 
@@ -54,3 +55,4 @@
 [instagram]: https://www.instagram.com/andreasgdp/
 [linkedin]: https://www.linkedin.com/in/andreas-g-d-petersen-11707518b/
 [OHL]: https://onlinehelplist.pythonanywhere.com/
+[OHL]: https://github.com/BHelpful
