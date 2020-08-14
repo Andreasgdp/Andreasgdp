@@ -53,5 +53,4 @@
 [youtube]: https://www.youtube.com/channel/UCjROH9WQistOlH2shyvFmyw
 [instagram]: https://www.instagram.com/andreasgdp/
 [linkedin]: https://www.linkedin.com/in/andreas-g-d-petersen-11707518b/
-
-[OHL]: https://www.onlinehelplist.pythonanywhere.com/
+[OHL]: https://onlinehelplist.pythonanywhere.com/
