@@ -1,4 +1,4 @@
-### Hi there, I'm Andreas - aka [Guldberg][website] 👋
+### Hi there 👋 I'm Andreas - aka [Guldberg][website]
 
 ## I'm a Student and Developer!
 
