@@ -11,11 +11,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Guldberg | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][website]
+[<img align="left" alt="Guldberg | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Guldberg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Guldberg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Guldberg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -52,6 +52,20 @@
 </a>
 
 <br />
+
+---
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#47](https://github.com//BHelpful/Mr-Engineer/pull/47) in [BHelpful/Mr-Engineer](https://github.com//BHelpful/Mr-Engineer)
+2. 💪 Opened PR [#47](https://github.com//BHelpful/Mr-Engineer/pull/47) in [BHelpful/Mr-Engineer](https://github.com//BHelpful/Mr-Engineer)
+3. ❗️ Closed issue [#43](https://github.com//Andreasgdp/Mr-Engineer/issues/43) in [Andreasgdp/Mr-Engineer](https://github.com//Andreasgdp/Mr-Engineer)
+4. 🎉 Merged PR [#46](https://github.com//Andreasgdp/Mr-Engineer/pull/46) in [Andreasgdp/Mr-Engineer](https://github.com//Andreasgdp/Mr-Engineer)
+<!--END_SECTION:activity-->
+
+
+<br />
+
+---
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
@@ -135,12 +149,6 @@ C++                      1 repos             █░░░░░░░░░░�
 
 <br />
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com//BHelpful/Mr-Engineer/pull/47) in [BHelpful/Mr-Engineer](https://github.com//BHelpful/Mr-Engineer)
-2. 💪 Opened PR [#47](https://github.com//BHelpful/Mr-Engineer/pull/47) in [BHelpful/Mr-Engineer](https://github.com//BHelpful/Mr-Engineer)
-3. ❗️ Closed issue [#43](https://github.com//Andreasgdp/Mr-Engineer/issues/43) in [Andreasgdp/Mr-Engineer](https://github.com//Andreasgdp/Mr-Engineer)
-4. 🎉 Merged PR [#46](https://github.com//Andreasgdp/Mr-Engineer/pull/46) in [Andreasgdp/Mr-Engineer](https://github.com//Andreasgdp/Mr-Engineer)
-<!--END_SECTION:activity-->
 
 [website]: https://www.twitch.tv/guldberglive
 [twitter]: https://twitter.com/Guldberg20
