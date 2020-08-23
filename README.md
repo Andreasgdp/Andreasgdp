@@ -67,6 +67,9 @@
 
 ---
 
+<details>
+  <summary>:zap: WakaTime Stats</summary>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -146,6 +149,9 @@ C++                      1 repos             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+
+</details>
 
 <br />
 
