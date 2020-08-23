@@ -136,8 +136,12 @@ C++                      1 repos             █░░░░░░░░░░�
 </details>
 
 <details>
-  <summary>:zap: WakaTime Stats</summary>
-[![Andreas G.D Petersen StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)](https://stackoverflow.com/users/11050308/andreas-g-d-petersen)
+  <summary>:zap: StackOverflow Stats</summary>
+  
+  
+  [![Andreas G.D Petersen StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11050308)](https://stackoverflow.com/users/11050308/andreas-g-d-petersen)
+
+
 </details>
 
 <br />
