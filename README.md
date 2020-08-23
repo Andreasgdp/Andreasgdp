@@ -51,6 +51,9 @@
   <img width="44.5% height="100px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreasgdp&layout=compact" />
 </a>
 
+<br />
+<br />
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#47](https://github.com//BHelpful/Mr-Engineer/pull/47) in [BHelpful/Mr-Engineer](https://github.com//BHelpful/Mr-Engineer)
 2. 💪 Opened PR [#47](https://github.com//BHelpful/Mr-Engineer/pull/47) in [BHelpful/Mr-Engineer](https://github.com//BHelpful/Mr-Engineer)
