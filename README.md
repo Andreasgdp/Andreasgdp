@@ -51,7 +51,7 @@
   <img width="44.5% height="100px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreasgdp&layout=compact" />
 </a>
 
-
+<!--START_SECTION:activity-->
 
 [website]: https://www.twitch.tv/guldberglive
 [twitter]: https://twitter.com/Guldberg20
