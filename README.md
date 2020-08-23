@@ -61,10 +61,6 @@
 3. ❗️ Closed issue [#43](https://github.com//Andreasgdp/Mr-Engineer/issues/43) in [Andreasgdp/Mr-Engineer](https://github.com//Andreasgdp/Mr-Engineer)
 4. 🎉 Merged PR [#46](https://github.com//Andreasgdp/Mr-Engineer/pull/46) in [Andreasgdp/Mr-Engineer](https://github.com//Andreasgdp/Mr-Engineer)
 <!--END_SECTION:activity-->
-
-
-<br />
-
 ---
 
 <details>
