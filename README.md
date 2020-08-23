@@ -52,6 +52,11 @@
 </a>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#47](https://github.com//BHelpful/Mr-Engineer/pull/47) in [BHelpful/Mr-Engineer](https://github.com//BHelpful/Mr-Engineer)
+2. 💪 Opened PR [#47](https://github.com//BHelpful/Mr-Engineer/pull/47) in [BHelpful/Mr-Engineer](https://github.com//BHelpful/Mr-Engineer)
+3. ❗️ Closed issue [#43](https://github.com//Andreasgdp/Mr-Engineer/issues/43) in [Andreasgdp/Mr-Engineer](https://github.com//Andreasgdp/Mr-Engineer)
+4. 🎉 Merged PR [#46](https://github.com//Andreasgdp/Mr-Engineer/pull/46) in [Andreasgdp/Mr-Engineer](https://github.com//Andreasgdp/Mr-Engineer)
+<!--END_SECTION:activity-->
 
 [website]: https://www.twitch.tv/guldberglive
 [twitter]: https://twitter.com/Guldberg20
