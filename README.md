@@ -45,10 +45,10 @@
 ---
 
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Andreasgdp&show_icons=true&count_private=true" />
+  <img width="55% height="100px" align="center" src="https://github-readme-stats.vercel.app/api?username=Andreasgdp&show_icons=true&count_private=true" />
 </a>
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreasgdp&layout=compact" />
+  <img width="44.5% height="100px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreasgdp&layout=compact" />
 </a>
 
 
