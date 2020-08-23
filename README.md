@@ -138,6 +138,7 @@ C++                      1 repos             █░░░░░░░░░░�
 <details>
   <summary>:zap: StackOverflow Stats</summary>
   
+  <br />
   
   [![Andreas G.D Petersen StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11050308)](https://stackoverflow.com/users/11050308/andreas-g-d-petersen)
 
