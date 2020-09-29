@@ -56,9 +56,9 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com//BHelpful/Mr-Engineer/pull/47) in [BHelpful/Mr-Engineer](https://github.com//BHelpful/Mr-Engineer)
-2. 💪 Opened PR [#47](https://github.com//BHelpful/Mr-Engineer/pull/47) in [BHelpful/Mr-Engineer](https://github.com//BHelpful/Mr-Engineer)
-3. ❗️ Closed issue [#43](https://github.com//Andreasgdp/Mr-Engineer/issues/43) in [Andreasgdp/Mr-Engineer](https://github.com//Andreasgdp/Mr-Engineer)
+1. ❗️ Closed issue [#2](https://github.com/Andreasgdp/Drawing-robot-semester-1/issues/2) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
+2. ❗️ Opened issue [#2](https://github.com/Andreasgdp/Drawing-robot-semester-1/issues/2) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
+3. ❗️ Opened issue [#1](https://github.com/Andreasgdp/Drawing-robot-semester-1/issues/1) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
 4. 🎉 Merged PR [#46](https://github.com//Andreasgdp/Mr-Engineer/pull/46) in [Andreasgdp/Mr-Engineer](https://github.com//Andreasgdp/Mr-Engineer)
 <!--END_SECTION:activity-->
 ---
