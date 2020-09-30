@@ -56,10 +56,10 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/Andreasgdp/Drawing-robot-semester-1/issues/8) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
-2. ❗️ Opened issue [#7](https://github.com/Andreasgdp/Drawing-robot-semester-1/issues/7) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
-3. ❗️ Opened issue [#6](https://github.com/Andreasgdp/Drawing-robot-semester-1/issues/6) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
-4. ❗️ Opened issue [#5](https://github.com/Andreasgdp/Drawing-robot-semester-1/issues/5) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
+1. ❗️ Opened issue [#9](https://github.com/Andreasgdp/Drawing-robot-semester-1/issues/9) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
+2. ❗️ Opened issue [#8](https://github.com/Andreasgdp/Drawing-robot-semester-1/issues/8) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
+3. ❗️ Opened issue [#7](https://github.com/Andreasgdp/Drawing-robot-semester-1/issues/7) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
+4. ❗️ Opened issue [#6](https://github.com/Andreasgdp/Drawing-robot-semester-1/issues/6) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
 <!--END_SECTION:activity-->
 ---
 
