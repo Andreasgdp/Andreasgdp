@@ -56,10 +56,10 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/Andreasgdp/Drawing-robot-semester-1/pull/22) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
-2. ❗️ Opened issue [#21](https://github.com/Andreasgdp/Drawing-robot-semester-1/issues/21) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
-3. 🎉 Merged PR [#20](https://github.com/Andreasgdp/Drawing-robot-semester-1/pull/20) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
-4. ❌ Closed PR [#19](https://github.com/Andreasgdp/Drawing-robot-semester-1/pull/19) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
+1. 🎉 Merged PR [#22](https://github.com/Andreasgdp/Drawing-robot-semester-1/pull/22) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
+2. ❗️ Closed issue [#7](https://github.com/Andreasgdp/Drawing-robot-semester-1/issues/7) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
+3. ❗️ Closed issue [#5](https://github.com/Andreasgdp/Drawing-robot-semester-1/issues/5) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
+4. 💪 Opened PR [#22](https://github.com/Andreasgdp/Drawing-robot-semester-1/pull/22) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
 <!--END_SECTION:activity-->
 ---
 
