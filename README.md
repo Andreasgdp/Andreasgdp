@@ -56,10 +56,10 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Andreasgdp/Daily-Coding-Problem/issues/1) in [Andreasgdp/Daily-Coding-Problem](https://github.com/Andreasgdp/Daily-Coding-Problem)
-2. 💪 Opened PR [#29](https://github.com/Andreasgdp/Drawing-robot-semester-1/pull/29) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
-3. ❗️ Opened issue [#28](https://github.com/Andreasgdp/Drawing-robot-semester-1/issues/28) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
-4. ❗️ Opened issue [#27](https://github.com/Andreasgdp/Drawing-robot-semester-1/issues/27) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
+1. ❗️ Opened issue [#32](https://github.com/Andreasgdp/Drawing-robot-semester-1/issues/32) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
+2. ❗️ Closed issue [#24](https://github.com/Andreasgdp/Drawing-robot-semester-1/issues/24) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
+3. ❗️ Opened issue [#30](https://github.com/Andreasgdp/Drawing-robot-semester-1/issues/30) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
+4. ❗️ Closed issue [#23](https://github.com/Andreasgdp/Drawing-robot-semester-1/issues/23) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
 <!--END_SECTION:activity-->
 ---
 
