@@ -56,10 +56,10 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51](https://github.com/BHelpful/Mr-Engineer/pull/51) in [BHelpful/Mr-Engineer](https://github.com/BHelpful/Mr-Engineer)
-2. 🎉 Merged PR [#48](https://github.com/BHelpful/Mr-Engineer/pull/48) in [BHelpful/Mr-Engineer](https://github.com/BHelpful/Mr-Engineer)
-3. 💪 Opened PR [#51](https://github.com/Andreasgdp/Drawing-robot-semester-1/pull/51) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
-4. 🎉 Merged PR [#50](https://github.com/Andreasgdp/Drawing-robot-semester-1/pull/50) in [Andreasgdp/Drawing-robot-semester-1](https://github.com/Andreasgdp/Drawing-robot-semester-1)
+1. 🎉 Merged PR [#52](https://github.com/BHelpful/Mr-Engineer/pull/52) in [BHelpful/Mr-Engineer](https://github.com/BHelpful/Mr-Engineer)
+2. 🎉 Merged PR [#53](https://github.com/BHelpful/Mr-Engineer/pull/53) in [BHelpful/Mr-Engineer](https://github.com/BHelpful/Mr-Engineer)
+3. 💪 Opened PR [#53](https://github.com/BHelpful/Mr-Engineer/pull/53) in [BHelpful/Mr-Engineer](https://github.com/BHelpful/Mr-Engineer)
+4. 🎉 Merged PR [#51](https://github.com/BHelpful/Mr-Engineer/pull/51) in [BHelpful/Mr-Engineer](https://github.com/BHelpful/Mr-Engineer)
 <!--END_SECTION:activity-->
 ---
 
