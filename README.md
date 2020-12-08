@@ -151,5 +151,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 [youtube]: https://www.youtube.com/channel/UCjROH9WQistOlH2shyvFmyw
 [instagram]: https://www.instagram.com/andreasgdp/
 [linkedin]: https://www.linkedin.com/in/andreas-g-d-petersen-11707518b/
-[OHL]: https://onlinehelplist.pythonanywhere.com/
+[OHL]: https://ohl.bhelpful.net/
 [BHelpful]: https://github.com/BHelpful
