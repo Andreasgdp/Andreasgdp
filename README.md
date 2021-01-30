@@ -100,16 +100,17 @@ Sunday       110 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     5 mins              █████████████████████░░░░   83.97% 
+Markdown                 1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.03%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Robot-hand-semester-2    6 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 mins              █████████████████████████   100.0%
 
 ```
 
