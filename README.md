@@ -56,10 +56,10 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Andreasgdp/Robot-hand-semester-2/pull/5) in [Andreasgdp/Robot-hand-semester-2](https://github.com/Andreasgdp/Robot-hand-semester-2)
-2. ❗️ Opened issue [#4](https://github.com/Andreasgdp/Robot-hand-semester-2/issues/4) in [Andreasgdp/Robot-hand-semester-2](https://github.com/Andreasgdp/Robot-hand-semester-2)
-3. ❗️ Opened issue [#3](https://github.com/Andreasgdp/Robot-hand-semester-2/issues/3) in [Andreasgdp/Robot-hand-semester-2](https://github.com/Andreasgdp/Robot-hand-semester-2)
-4. ❗️ Closed issue [#2](https://github.com/Andreasgdp/Robot-hand-semester-2/issues/2) in [Andreasgdp/Robot-hand-semester-2](https://github.com/Andreasgdp/Robot-hand-semester-2)
+1. ❗️ Opened issue [#8](https://github.com/Andreasgdp/Robot-hand-semester-2/issues/8) in [Andreasgdp/Robot-hand-semester-2](https://github.com/Andreasgdp/Robot-hand-semester-2)
+2. ❗️ Opened issue [#7](https://github.com/Andreasgdp/Robot-hand-semester-2/issues/7) in [Andreasgdp/Robot-hand-semester-2](https://github.com/Andreasgdp/Robot-hand-semester-2)
+3. ❗️ Opened issue [#6](https://github.com/Andreasgdp/Robot-hand-semester-2/issues/6) in [Andreasgdp/Robot-hand-semester-2](https://github.com/Andreasgdp/Robot-hand-semester-2)
+4. ❌ Closed PR [#5](https://github.com/Andreasgdp/Robot-hand-semester-2/pull/5) in [Andreasgdp/Robot-hand-semester-2](https://github.com/Andreasgdp/Robot-hand-semester-2)
 <!--END_SECTION:activity-->
 ---
 
