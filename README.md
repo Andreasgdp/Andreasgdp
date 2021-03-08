@@ -56,10 +56,10 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Andreasgdp/Robot-hand-semester-2/pull/1) in [Andreasgdp/Robot-hand-semester-2](https://github.com/Andreasgdp/Robot-hand-semester-2)
-2. 💪 Opened PR [#1](https://github.com/Andreasgdp/Robot-hand-semester-2/pull/1) in [Andreasgdp/Robot-hand-semester-2](https://github.com/Andreasgdp/Robot-hand-semester-2)
-3. 💪 Opened PR [#64](https://github.com/BHelpful/Mr-Engineer/pull/64) in [BHelpful/Mr-Engineer](https://github.com/BHelpful/Mr-Engineer)
-4. ❗️ Opened issue [#63](https://github.com/BHelpful/Mr-Engineer/issues/63) in [BHelpful/Mr-Engineer](https://github.com/BHelpful/Mr-Engineer)
+1. ❗️ Closed issue [#2](https://github.com/Andreasgdp/Robot-hand-semester-2/issues/2) in [Andreasgdp/Robot-hand-semester-2](https://github.com/Andreasgdp/Robot-hand-semester-2)
+2. ❗️ Opened issue [#2](https://github.com/Andreasgdp/Robot-hand-semester-2/issues/2) in [Andreasgdp/Robot-hand-semester-2](https://github.com/Andreasgdp/Robot-hand-semester-2)
+3. 🎉 Merged PR [#1](https://github.com/Andreasgdp/Robot-hand-semester-2/pull/1) in [Andreasgdp/Robot-hand-semester-2](https://github.com/Andreasgdp/Robot-hand-semester-2)
+4. 💪 Opened PR [#1](https://github.com/Andreasgdp/Robot-hand-semester-2/pull/1) in [Andreasgdp/Robot-hand-semester-2](https://github.com/Andreasgdp/Robot-hand-semester-2)
 <!--END_SECTION:activity-->
 ---
 
