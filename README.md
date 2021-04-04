@@ -154,6 +154,6 @@ Makefile                 2 repos             ██░░░░░░░░░�
 [twitter]: https://twitter.com/Guldberg20
 [youtube]: https://www.youtube.com/channel/UCjROH9WQistOlH2shyvFmyw
 [instagram]: https://www.instagram.com/andreasgdp/
-[linkedin]: https://www.linkedin.com/in/andreas-g-d-petersen-11707518b/
+[linkedin]: https://www.linkedin.com/in/andreasgdp/
 [OHL]: https://ohl.bhelpful.net/
 [BHelpful]: https://github.com/BHelpful
