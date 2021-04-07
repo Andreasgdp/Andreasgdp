@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Andreas - aka [Guldberg][website]
+### Hi there 👋 I'm Andreas
 
 ## I'm a Student and Developer!
 
@@ -11,7 +11,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Guldberg | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][website]
 [<img align="left" alt="Guldberg | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Guldberg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Guldberg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -148,7 +147,6 @@ Makefile                 2 repos             ██░░░░░░░░░�
 <br />
 
 
-[website]: https://www.twitch.tv/guldberglive
 [twitter]: https://twitter.com/Guldberg20
 [youtube]: https://www.youtube.com/channel/UCjROH9WQistOlH2shyvFmyw
 [instagram]: https://www.instagram.com/andreasgdp/
