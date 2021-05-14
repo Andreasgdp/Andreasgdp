@@ -55,8 +55,8 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8942](https://github.com/education/GitHubGraduation-2021/pull/8942) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-2. ❗️ Opened issue [#63](https://github.com/BHelpful/Mr-Engineer/issues/63) in [BHelpful/Mr-Engineer](https://github.com/BHelpful/Mr-Engineer)
+1. ❌ Closed PR [#8942](https://github.com/education/GitHubGraduation-2021/pull/8942) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+2. 💪 Opened PR [#8942](https://github.com/education/GitHubGraduation-2021/pull/8942) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
 3. ❗️ Opened issue [#62](https://github.com/BHelpful/Mr-Engineer/issues/62) in [BHelpful/Mr-Engineer](https://github.com/BHelpful/Mr-Engineer)
 4. ❗️ Opened issue [#7](https://github.com/Andreasgdp/Robot-hand-semester-2/issues/7) in [Andreasgdp/Robot-hand-semester-2](https://github.com/Andreasgdp/Robot-hand-semester-2)
 <!--END_SECTION:activity-->
