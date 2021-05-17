@@ -99,16 +99,16 @@ Sunday       123 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-Batchfile                3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Kill programs            3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
