@@ -99,16 +99,16 @@ Sunday       137 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      5 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+18-06                    5 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 mins              █████████████████████████   100.0%
 
 ```
 
