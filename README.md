@@ -49,9 +49,6 @@
   </a>
 </p>
 
-
-<br />
-
 ---
 
 <!--START_SECTION:activity-->
