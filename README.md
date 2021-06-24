@@ -43,9 +43,12 @@
 
 ---
 
-<a href="">
-  <img width="100% height="100px" align="center" src="https://github-readme-stats.vercel.app/api?username=Andreasgdp&show_icons=true&count_private=true" />
-</a>
+<p align="center">
+  <a href="">
+    <img width="60% align="center" src="https://github-readme-stats.vercel.app/api?username=Andreasgdp&show_icons=true&count_private=true" />
+  </a>
+</p>
+
 
 <br />
 
