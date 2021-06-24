@@ -44,10 +44,7 @@
 ---
 
 <a href="">
-  <img width="55% height="100px" align="center" src="https://github-readme-stats.vercel.app/api?username=Andreasgdp&show_icons=true&count_private=true" />
-</a>
-<a href="">
-  <img width="44.5% height="100px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreasgdp&layout=compact" />
+  <img width="100% height="100px" align="center" src="https://github-readme-stats.vercel.app/api?username=Andreasgdp&show_icons=true&count_private=true" />
 </a>
 
 <br />
