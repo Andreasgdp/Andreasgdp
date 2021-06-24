@@ -146,7 +146,7 @@ Batchfile                2 repos             ██░░░░░░░░░�
 
 
 [twitter]: https://twitter.com/Guldberg20
-[youtube]: https://www.youtube.com/channel/UCjROH9WQistOlH2shyvFmyw
+[youtube]: https://www.youtube.com/channel/UCORVtLIFnURPEo_Fo-MGv8A
 [instagram]: https://www.instagram.com/andreasgdp/
 [linkedin]: https://www.linkedin.com/in/andreasgdp/
 [OHL]: https://ohl.bhelpful.net/
