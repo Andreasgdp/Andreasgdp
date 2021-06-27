@@ -1,6 +1,4 @@
-### Hi there 👋 I'm Andreas
-
-## I'm a Student and Developer!
+## Hi there 👋 I'm Andreas, a Student and Developer!
 
 - 🔭 I’m currently working on a website [Online Help List][OHL]!
 - 📑 I’m in the middle of starting a new company [BHelpful][BHelpful]!
