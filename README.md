@@ -50,10 +50,10 @@
 ---
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Andreasgdp/My-Portfolio/issues/2) in [Andreasgdp/My-Portfolio](https://github.com/Andreasgdp/My-Portfolio)
-2. 🎉 Merged PR [#1](https://github.com/Andreasgdp/My-Portfolio/pull/1) in [Andreasgdp/My-Portfolio](https://github.com/Andreasgdp/My-Portfolio)
-3. 💪 Opened PR [#1](https://github.com/Andreasgdp/My-Portfolio/pull/1) in [Andreasgdp/My-Portfolio](https://github.com/Andreasgdp/My-Portfolio)
-4. 💪 Opened PR [#8942](https://github.com/education/GitHubGraduation-2021/pull/8942) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+1. 💪 Opened PR [#3](https://github.com/Andreasgdp/My-Portfolio/pull/3) in [Andreasgdp/My-Portfolio](https://github.com/Andreasgdp/My-Portfolio)
+2. ❗️ Opened issue [#2](https://github.com/Andreasgdp/My-Portfolio/issues/2) in [Andreasgdp/My-Portfolio](https://github.com/Andreasgdp/My-Portfolio)
+3. 🎉 Merged PR [#1](https://github.com/Andreasgdp/My-Portfolio/pull/1) in [Andreasgdp/My-Portfolio](https://github.com/Andreasgdp/My-Portfolio)
+4. 💪 Opened PR [#1](https://github.com/Andreasgdp/My-Portfolio/pull/1) in [Andreasgdp/My-Portfolio](https://github.com/Andreasgdp/My-Portfolio)
 <!--END_SECTION:activity-->
 ---
 
