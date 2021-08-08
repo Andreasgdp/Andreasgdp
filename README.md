@@ -50,10 +50,10 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Andreasgdp/My-Portfolio/pull/3) in [Andreasgdp/My-Portfolio](https://github.com/Andreasgdp/My-Portfolio)
-2. ❗️ Opened issue [#2](https://github.com/Andreasgdp/My-Portfolio/issues/2) in [Andreasgdp/My-Portfolio](https://github.com/Andreasgdp/My-Portfolio)
-3. 🎉 Merged PR [#1](https://github.com/Andreasgdp/My-Portfolio/pull/1) in [Andreasgdp/My-Portfolio](https://github.com/Andreasgdp/My-Portfolio)
-4. 💪 Opened PR [#1](https://github.com/Andreasgdp/My-Portfolio/pull/1) in [Andreasgdp/My-Portfolio](https://github.com/Andreasgdp/My-Portfolio)
+1. 🎉 Merged PR [#2](https://github.com/Andreasgdp/The-Complete-Angular-Course-Beginner-to-Advanced/pull/2) in [Andreasgdp/The-Complete-Angular-Course-Beginner-to-Advanced](https://github.com/Andreasgdp/The-Complete-Angular-Course-Beginner-to-Advanced)
+2. 🎉 Merged PR [#3](https://github.com/Andreasgdp/The-Complete-Angular-Course-Beginner-to-Advanced/pull/3) in [Andreasgdp/The-Complete-Angular-Course-Beginner-to-Advanced](https://github.com/Andreasgdp/The-Complete-Angular-Course-Beginner-to-Advanced)
+3. 🎉 Merged PR [#6](https://github.com/Andreasgdp/The-Complete-Angular-Course-Beginner-to-Advanced/pull/6) in [Andreasgdp/The-Complete-Angular-Course-Beginner-to-Advanced](https://github.com/Andreasgdp/The-Complete-Angular-Course-Beginner-to-Advanced)
+4. 🎉 Merged PR [#7](https://github.com/Andreasgdp/The-Complete-Angular-Course-Beginner-to-Advanced/pull/7) in [Andreasgdp/The-Complete-Angular-Course-Beginner-to-Advanced](https://github.com/Andreasgdp/The-Complete-Angular-Course-Beginner-to-Advanced)
 <!--END_SECTION:activity-->
 ---
 
