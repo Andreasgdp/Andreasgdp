@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Andreas, a Student and Developer!
 
-- 🔭 I’m currently working on a website [Online Help List][OHL]!
+- 🔭 I’m currently working on a website [MealPlanr][MP]!
 - 📑 I’m in the middle of starting a new company [BHelpful][BHelpful]!
 - 🌱 Doing my best to learn new things every day
 - 👯 Looking to collaborate with others
@@ -120,5 +120,5 @@ Batchfile                2 repos             ██░░░░░░░░░�
 [youtube]: https://www.youtube.com/channel/UCORVtLIFnURPEo_Fo-MGv8A
 [instagram]: https://www.instagram.com/andreasgdp/
 [linkedin]: https://www.linkedin.com/in/andreasgdp/
-[OHL]: https://ohl.bhelpful.net/
+[MP]: https://mealplanr.bhelpful.net/
 [BHelpful]: https://github.com/BHelpful
