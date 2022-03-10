@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Andreas, a Student and Developer!
 
-- 🔭 I’m currently working on a website [MealPlanr][MP]!
-- 📑 I’m in the middle of starting a new company [BHelpful][BHelpful]!
+- 🔭 I’m currently working on a website [MealPlanr][MP] in the monorepo [BHelpful Repo][BHelpfulRepo]!
+- 📑 I’m workin on different projects in my organisation [BHelpful][BHelpful]!
 - 🌱 Doing my best to learn new things every day
 - 👯 Looking to collaborate with others
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -47,3 +47,4 @@
 [linkedin]: https://www.linkedin.com/in/andreasgdp/
 [MP]: https://mealplanr.bhelpful.net/
 [BHelpful]: https://github.com/BHelpful
+[BHelpfulRepo]: https://github.com/BHelpful/BHelpful
