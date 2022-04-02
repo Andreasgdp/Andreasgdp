@@ -41,14 +41,14 @@ Credit to [Cristina Pasquale][GifCredit] for the gif.
 </details>
 
 <details>	
-  <summary><b>☄️ Github Streaks</b></summary>
+  <summary>☄️ Github Streaks</summary>
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Andreasgdp&hide_border=true" />
 </details>
                 
 <details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+  <summary>🧑‍🚀 Open Source Projects</summary>
 
   <br />
   <table>
