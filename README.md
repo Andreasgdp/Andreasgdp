@@ -38,8 +38,43 @@ Credit to [Cristina Pasquale][GifCredit] for the gif.
   
   [![Andreas G.D Petersen StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11050308)](https://stackoverflow.com/users/11050308/andreas-g-d-petersen)
 
-
 </details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Andreasgdp&hide_border=true" />
+</details>
+                
+<details>
+  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/BHelpful/BHelpful"><b>🚀 BHelpful</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/BHelpful/BHelpful?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/BHelpful/BHelpful?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/BHelpful/BHelpful?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/BHelpful/BHelpful?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/BHelpful/BHelpful?style=flat-square"/></td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>                                                                                                              
 
 <br />
 
