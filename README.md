@@ -43,6 +43,8 @@ Credit to [Cristina Pasquale][GifCredit] for the gif.
 
 <br />
 
+![](https://visitor-badge.glitch.me/badge?page_id=Andreasgdp)
+                                                                                                                                          
 
 [twitter]: https://twitter.com/Guldberg20
 [youtube]: https://www.youtube.com/channel/UCORVtLIFnURPEo_Fo-MGv8A
