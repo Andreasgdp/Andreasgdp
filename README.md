@@ -24,6 +24,8 @@
     <img width="60% align="center" src="https://github-readme-stats.vercel.app/api?username=Andreasgdp&show_icons=true&count_private=true" />
   </a>
 </p>
+                                                                                                                                          
+Credit to [Cristina Pasquale][GifCredit] for the gif.
 
 ---
 
@@ -49,3 +51,4 @@
 [MP]: https://mealplanr.bhelpful.net/
 [BHelpful]: https://github.com/BHelpful
 [BHelpfulRepo]: https://github.com/BHelpful/BHelpful
+[GifCredit]: https://dribbble.com/rawcedine
