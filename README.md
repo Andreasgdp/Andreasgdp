@@ -18,7 +18,7 @@
 
 ---
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/Andreasgdp/Andreasgdp/master/gifs/coding.gif" />
+<img align="right" height="239" width="325" alt="" src="https://raw.githubusercontent.com/Andreasgdp/Andreasgdp/master/gifs/coding.gif" />
 
 
 <p align="center">
