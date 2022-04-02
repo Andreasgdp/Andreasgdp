@@ -23,7 +23,7 @@
     <img width="60% align="center" src="https://github-readme-stats.vercel.app/api?username=Andreasgdp&show_icons=true&count_private=true" />
   </a>
 
-  <img align="right" height="239" width="325" alt="" src="https://raw.githubusercontent.com/Andreasgdp/Andreasgdp/master/gifs/coding.gif" />
+  <img align="right" height="239" width="300" alt="" src="https://raw.githubusercontent.com/Andreasgdp/Andreasgdp/master/gifs/coding.gif" />
 </p>
 
 ---
