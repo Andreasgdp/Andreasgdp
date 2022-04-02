@@ -18,6 +18,9 @@
 
 ---
 
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/Andreasgdp/Andreasgdp/master/gifs/coding.gif" />
+
+
 <p align="center">
   <a href="">
     <img width="60% align="center" src="https://github-readme-stats.vercel.app/api?username=Andreasgdp&show_icons=true&count_private=true" />
