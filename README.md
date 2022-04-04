@@ -19,61 +19,55 @@
 ---
 
 <p align="center">
-  <img align="right" height="239" width="300" alt="" src="https://raw.githubusercontent.com/Andreasgdp/Andreasgdp/master/gifs/coding.gif" />
-  <a href="">
-    <img width="60% align="center" src="https://github-readme-stats.vercel.app/api?username=Andreasgdp&theme=nord&show_icons=true&count_private=true" />
-  </a>
+	<img align="right" height="239" width="300" alt="" src="https://raw.githubusercontent.com/Andreasgdp/Andreasgdp/master/gifs/coding.gif" />
+	<img width="60% align="center" src="https://github-readme-stats.vercel.app/api?username=Andreasgdp&theme=nord&show_icons=true&count_private="true" />
 </p>
-                                                                                                                                          
+
 Credit to [Cristina Pasquale][GifCredit] for the gif.
 
 ---
 
-
-
 <details>
-  <summary>:zap: StackOverflow Stats</summary>
-  
-  <br />
-  
-  [![Andreas G.D Petersen StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11050308)](https://stackoverflow.com/users/11050308/andreas-g-d-petersen)
+<summary>☄️ Github Streaks</summary>
 
-</details>
+<br />
 
-<details>	
-  <summary>☄️ Github Streaks</summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Andreasgdp&hide_border=true" />
+<p align="center">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Andreasgdp&hide_border=true" />
+</p>
 </details>
                 
 <details>
-  <summary>🧑‍🚀 Open Source Projects</summary>
+<summary>🧑‍🚀 Open Source Projects</summary>
 
-  <br />
+<br />
+	
+<center>
   <table>
     <thead align="center">
       <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
+	<td><b>💻 Projects</b></td>
+	<td><b>🌟 Stars</b></td>
+	<td><b>🍴 Forks</b></td>
+	<td><b>🐛 Issues</b></td>
+	<td><b>🔔 Pull Requests</b></td>
+	<td><b>👨‍💻 Language</b></td>
       </tr>
     </thead>
     <tbody>
       <tr>
 	      <td><a href="https://github.com/BHelpful/BHelpful"><b>🚀 BHelpful</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/BHelpful/BHelpful?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/BHelpful/BHelpful?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/BHelpful/BHelpful?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/BHelpful/BHelpful?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/BHelpful/BHelpful?style=flat-square"/></td>
+	<td><img alt="Stars" src="https://img.shields.io/github/stars/BHelpful/BHelpful?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Forks" src="https://img.shields.io/github/forks/BHelpful/BHelpful?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Issues" src="https://img.shields.io/github/issues/BHelpful/BHelpful?style=flat-square"/></td>
+	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/BHelpful/BHelpful?style=flat-square"/></td>
+	<td><img alt="Language" src="https://img.shields.io/github/languages/top/BHelpful/BHelpful?style=flat-square"/></td>
       </tr>
     </tbody>
   </table>
-  <br />
+</center>
+
+<br />
 </details>                                                                                                              
 
 <br />
