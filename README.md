@@ -27,21 +27,8 @@ Credit to [Cristina Pasquale][GifCredit] for the gif.
 
 ---
 
-<details>
-<summary>☄️ Github Streaks</summary>
+### 🧑‍🚀 Open Source Projects
 
-<br />
-
-<p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Andreasgdp&hide_border=true" />
-</p>
-</details>
-                
-<details>
-<summary>🧑‍🚀 Open Source Projects</summary>
-
-<br />
-	
 <center>
   <table>
     <thead align="center">
@@ -65,10 +52,12 @@ Credit to [Cristina Pasquale][GifCredit] for the gif.
       </tr>
     </tbody>
   </table>
-</center>
+</center>                                                                                                           
 
 <br />
-</details>                                                                                                              
+
+### Github Streaks
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Andreasgdp&hide_border=true" />
 
 <br />
 
