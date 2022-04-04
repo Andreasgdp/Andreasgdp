@@ -56,11 +56,6 @@ Credit to [Cristina Pasquale][GifCredit] for the gif.
 
 <br />
 
-### Github Streaks
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Andreasgdp&hide_border=true" />
-
-<br />
-
 ![](https://visitor-badge.glitch.me/badge?page_id=Andreasgdp)
                                                                                                                                           
 
