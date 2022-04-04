@@ -7,11 +7,11 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and design
 
-### 🤙 Connect with me:
+### 🤙 Connect with me
 
 [<img align="left" alt="Guldberg | YouTube" width="35px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-512.png" />][youtube]
 [<img align="left" alt="Guldberg | Twitter" width="35px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-twitter-512.png" />][twitter]
-[<img align="left" alt="Guldberg | LinkedIn" width="35px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />][linkedin]
+[<img align="left" alt="Guldberg | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Guldberg | Instagram" width="35px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png" />][instagram]
 
 <br />
