@@ -1,4 +1,4 @@
-## Hi there 👋 I'm [Andreas Petersen](https://github.com/Andreasgdp/), Student and Developer!
+## Hi there 👋 I'm [Andreas Petersen](https://andreasgdp.github.io/My-Portfolio/), Student and Developer!
 
 - 🔭 I’m currently working on a website [MealPlanr][MP] in our Open Source Monorepo [BHelpful Repo][BHelpfulRepo]!
 - 📑 I’m workin on different projects in our organisation [BHelpful][BHelpful]!
