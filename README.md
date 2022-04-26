@@ -1,4 +1,6 @@
-## Hi there 👋 I'm [Andreas Petersen](https://andreasgdp.netlify.app/), Student and Developer!
+## Hi there 👋 I'm <a href="https://andreasgdp.netlify.app/" target="_blank">Andreas Petersen</a>, Student and Developer!
+
+
 
 - 🔭 I’m currently working on a website [MealPlanr][MP] in our Open Source Monorepo [BHelpful Repo][BHelpfulRepo]!
 - 📑 I’m workin on different projects in our organisation [BHelpful][BHelpful]!
