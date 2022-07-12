@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a website [MealTime][MP] in our Open Source Monorepo [BHelpful Repo][BHelpfulRepo]!
+- 🔭 I’m currently working on a website [MealTime][MP] in our Open Source Monorepo [MealTime Repo][MealTimeRepo]!
 - 📑 I’m workin on different projects in our organisation [BHelpful][BHelpful]!
 - 🌱 Doing my best to learn new things every day
 - 👯 Looking to collaborate with others
@@ -84,5 +84,5 @@ Credit to [Cristina Pasquale][GifCredit] for the gif.
 [linkedin]: https://www.linkedin.com/in/andreasgdp/
 [MP]: https://mealplanr.bhelpful.net/
 [BHelpful]: https://github.com/BHelpful
-[BHelpfulRepo]: https://github.com/BHelpful/BHelpful
+[MealTimeRepo]: https://github.com/BHelpful/MealTime
 [GifCredit]: https://dribbble.com/rawcedine
