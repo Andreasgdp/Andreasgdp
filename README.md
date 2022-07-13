@@ -45,7 +45,7 @@ Credit to [Cristina Pasquale][GifCredit] for the gif.
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/BHelpful/BHelpful"><b>🚀 BHelpful</b></a></td>
+	      <td><a href="https://github.com/BHelpful/BHelpful"><b>🚀 MealTime</b></a></td>
 	<td><img alt="Stars" src="https://img.shields.io/github/stars/BHelpful/BHelpful?style=flat-square&labelColor=343b41"/></td>
 	<td><img alt="Forks" src="https://img.shields.io/github/forks/BHelpful/BHelpful?style=flat-square&labelColor=343b41"/></td>
 	<td><img alt="Issues" src="https://img.shields.io/github/issues/BHelpful/BHelpful?style=flat-square"/></td>
