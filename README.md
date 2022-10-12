@@ -20,15 +20,6 @@
 
 ---
 
-<p align="center">
-	<img align="right" height="239" width="300" alt="" src="https://raw.githubusercontent.com/Andreasgdp/Andreasgdp/master/gifs/coding.gif" />
-	<img width="60% align="center" src="https://github-readme-stats.vercel.app/api?username=Andreasgdp&theme=nord&show_icons=true&count_private="true" />
-</p>
-
-Credit to [Cristina Pasquale][GifCredit] for the gif.
-
----
-
 ### 🧑‍🚀 Open Source Projects
 
 <center>
@@ -62,7 +53,18 @@ Credit to [Cristina Pasquale][GifCredit] for the gif.
       </tr>
     </tbody>
   </table>
-</center>                                                                                                           
+</center>
+
+---
+
+<p align="center">
+	<img align="right" height="239" width="300" alt="" src="https://raw.githubusercontent.com/Andreasgdp/Andreasgdp/master/gifs/coding.gif" />
+	<img width="60% align="center" src="https://github-readme-stats.vercel.app/api?username=Andreasgdp&theme=nord&show_icons=true&count_private="true" />
+</p>
+
+Credit to [Cristina Pasquale][GifCredit] for the gif.
+                                                                                                           
+---
 
 <h3>👨‍💻 Things I code with</h3>
 <p>
