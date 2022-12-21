@@ -44,6 +44,14 @@
 	<td><img alt="Language" src="https://img.shields.io/github/languages/top/BHelpful/BHelpful?style=flat-square"/></td>
       </tr>
       <tr>
+        <td><a href="https://github.com/Andreasgdp/Wishing-Plan"><b>🌠 Wishing Plan</b></a></td>
+	<td><img alt="Stars" src="https://img.shields.io/github/stars/Andreasgdp/Wishing-Plan?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Forks" src="https://img.shields.io/github/forks/Andreasgdp/Wishing-Plan?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Issues" src="https://img.shields.io/github/issues/Andreasgdp/Wishing-Plan?style=flat-square"/></td>
+	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Andreasgdp/Wishing-Plan?style=flat-square"/></td>
+	<td><img alt="Language" src="https://img.shields.io/github/languages/top/Andreasgdp/Wishing-Plan?style=flat-square"/></td>
+      </tr>
+      <tr>
         <td><a href="https://github.com/Andreasgdp/Game-Scoreboards"><b>💯 Game Scoreboards</b></a></td>
 	<td><img alt="Stars" src="https://img.shields.io/github/stars/Andreasgdp/Game-Scoreboards?style=flat-square&labelColor=343b41"/></td>
 	<td><img alt="Forks" src="https://img.shields.io/github/forks/Andreasgdp/Game-Scoreboards?style=flat-square&labelColor=343b41"/></td>
