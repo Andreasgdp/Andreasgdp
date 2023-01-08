@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a website [Wishing Plan][WP] in our Open Source repo [Wishing Plan Repo][WPRepo]!
+- 🔭 I’m currently working on a website [Wishing Plan][WP] in my Open Source repo [Wishing Plan Repo][WPRepo]!
 - 📑 I’m workin on different projects in our organisation [BHelpful][BHelpful]!
 - 🌱 Doing my best to learn new things every day
 - 👯 Looking to collaborate with others
