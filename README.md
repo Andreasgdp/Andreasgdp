@@ -2,11 +2,11 @@
 
 
 
-- 🔭 I’m currently working on a website [MealTime][MP] in our Open Source Monorepo [MealTime Repo][MealTimeRepo]!
+- 🔭 I’m currently working on a website [Wishing Plan][WP] in our Open Source repo [Wishing Plan Repo][WPRepo]!
 - 📑 I’m workin on different projects in our organisation [BHelpful][BHelpful]!
 - 🌱 Doing my best to learn new things every day
 - 👯 Looking to collaborate with others
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and design
 
 ### 🤙 Connect with me
@@ -109,7 +109,7 @@ Credit to [Cristina Pasquale][GifCredit] for the gif.
 [youtube]: https://www.youtube.com/channel/UCORVtLIFnURPEo_Fo-MGv8A
 [instagram]: https://www.instagram.com/andreasgdp/
 [linkedin]: https://www.linkedin.com/in/andreasgdp/
-[MP]: https://mealplanr.bhelpful.net/
+[WP]: https://wishing-plan.com/
 [BHelpful]: https://github.com/BHelpful
-[MealTimeRepo]: https://github.com/BHelpful/MealTime
+[WPRepo]: https://github.com/Andreasgdp/Wishing-Plan
 [GifCredit]: https://dribbble.com/rawcedine
