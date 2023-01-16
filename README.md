@@ -73,14 +73,6 @@
 Credit to [Cristina Pasquale][GifCredit] for the gif.
 
 
-<details>
-<summary>Detailed showcase of commits</summary>
-	
-[![Activity](https://activity-graph.herokuapp.com/graph?username=Andreasgdp&theme=github)](https://github.com/Andreasgdp)
-	
-</details>
-
-
 ---
 
 <h3>👨‍💻 Things I code with</h3>
