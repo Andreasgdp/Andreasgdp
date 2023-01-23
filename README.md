@@ -1,13 +1,11 @@
 ## Hi there 👋 I'm <a href="https://andreasgdp.netlify.app/" target="_blank">Andreas Petersen</a>, Student and Developer!
 
-
-
-- 🔭 I’m currently working on a website [Wishing Plan][WP] in my Open Source repo [Wishing Plan Repo][WPRepo]!
-- 📑 I’m workin on different projects in our organisation [BHelpful][BHelpful]!
-- 🌱 Doing my best to learn new things every day
-- 👯 Looking to collaborate with others
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and design
+-   🔭 I’m currently working on a website [Wishing Plan][wp] in my Open Source repo [Wishing Plan Repo][wprepo]!
+-   📑 I’m workin on different projects in our organisation [BHelpful][bhelpful]!
+-   🌱 Doing my best to learn new things every day
+-   👯 Looking to collaborate with others
+-   🥅 2023 Goals: Contribute more to Open Source projects
+-   ⚡ Fun fact: I love to draw and design
 
 ### 🤙 Connect with me
 
@@ -65,13 +63,14 @@
 
 ---
 
-<p align="center">
-	<img align="right" height="239" width="300" alt="" src="https://raw.githubusercontent.com/Andreasgdp/Andreasgdp/master/gifs/coding.gif" />
-	<img width="60% align="center" src="https://github-readme-stats-delta-ecru.vercel.app/api?username=Andreasgdp&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000" />	
-</p>
-
-Credit to [Cristina Pasquale][GifCredit] for the gif.
-
+<div align="center">
+  <a href="https://andreasgdp.netlify.app/">
+	  <img height=200 src="https://github-readme-stats-delta-ecru.vercel.app/api/top-langs/?username=Andreasgdp&layout=compact&langs_count=8&hide_border=true&include_orgs=true&theme=dark&count_private=false&bg_color=000000" alt="Andreasgdp's Language stats" />
+  </a>
+  <a href="https://andreasgdp.netlify.app/">
+	  <img height=200  src="https://github-readme-stats-delta-ecru.vercel.app/api?username=Andreasgdp&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000" alt="Andreasgdp's git stats" />	
+  </a>
+</div>
 
 ---
 
@@ -93,15 +92,13 @@ Credit to [Cristina Pasquale][GifCredit] for the gif.
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=Andreasgdp)
-                                                                                                                                          
 
 [twitter]: https://twitter.com/Guldberg20
 [youtube]: https://www.youtube.com/channel/UCORVtLIFnURPEo_Fo-MGv8A
 [instagram]: https://www.instagram.com/andreasgdp/
 [linkedin]: https://www.linkedin.com/in/andreasgdp/
-[WP]: https://wishing-plan.com/
-[BHelpful]: https://github.com/BHelpful
-[WPRepo]: https://github.com/Andreasgdp/Wishing-Plan
-[GifCredit]: https://dribbble.com/rawcedine
+[wp]: https://wishing-plan.com/
+[bhelpful]: https://github.com/BHelpful
+[wprepo]: https://github.com/Andreasgdp/Wishing-Plan
+[gifcredit]: https://dribbble.com/rawcedine
