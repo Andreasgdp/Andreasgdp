@@ -67,7 +67,9 @@
 
 <p align="center">
 	<img align="right" height="239" width="300" alt="" src="https://raw.githubusercontent.com/Andreasgdp/Andreasgdp/master/gifs/coding.gif" />
-	<img width="60% align="center" src="https://github-readme-stats-delta-ecru.vercel.app/api?username=Andreasgdp&theme=nord&show_icons=true&count_private="true" />
+	<img width="60% align="center" src="https://github-readme-stats-delta-ecru.vercel.app/api?username=Andreasgdp&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-light-mode-only" />
+	<img width="60% align="center" src="https://github-readme-stats-delta-ecru.vercel.app/api?username=Andreasgdp&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" />
+	
 </p>
 
 Credit to [Cristina Pasquale][GifCredit] for the gif.
