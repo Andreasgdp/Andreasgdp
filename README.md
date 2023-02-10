@@ -65,10 +65,7 @@
 
 <div align="center">
   <a href="https://andreasgdp.netlify.app/">
-	  <img height=200 src="https://github-readme-stats-delta-ecru.vercel.app/api/top-langs/?username=Andreasgdp&layout=compact&langs_count=8&hide_border=true&include_orgs=true&theme=dark&count_private=false&bg_color=000000" alt="Andreasgdp's Language stats" />
-  </a>
-  <a href="https://andreasgdp.netlify.app/">
-	  <img height=200  src="https://github-readme-stats-delta-ecru.vercel.app/api?username=Andreasgdp&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000" alt="Andreasgdp's git stats" />	
+	  <img width=40%  src="https://github-readme-stats-delta-ecru.vercel.app/api?username=Andreasgdp&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000" alt="Andreasgdp's git stats" />	
   </a>
 </div>
 
