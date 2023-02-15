@@ -18,51 +18,6 @@
 
 ---
 
-### 🧑‍🚀 Open Source Projects
-
-<center>
-  <table>
-    <thead align="center">
-      <tr border: none;>
-	<td><b>💻 Projects</b></td>
-	<td><b>🌟 Stars</b></td>
-	<td><b>🍴 Forks</b></td>
-	<td><b>🐛 Issues</b></td>
-	<td><b>🔔 Pull Requests</b></td>
-	<td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="https://github.com/Andreasgdp/Wishing-Plan"><b>🌠 Wishing Plan</b></a></td>
-	<td><img alt="Stars" src="https://img.shields.io/github/stars/Andreasgdp/Wishing-Plan?style=flat-square&labelColor=343b41"/></td>
-	<td><img alt="Forks" src="https://img.shields.io/github/forks/Andreasgdp/Wishing-Plan?style=flat-square&labelColor=343b41"/></td>
-	<td><img alt="Issues" src="https://img.shields.io/github/issues/Andreasgdp/Wishing-Plan?style=flat-square"/></td>
-	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Andreasgdp/Wishing-Plan?style=flat-square"/></td>
-	<td><img alt="Language" src="https://img.shields.io/github/languages/top/Andreasgdp/Wishing-Plan?style=flat-square"/></td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/BHelpful/BHelpful"><b>🚀 MealTime</b></a></td>
-	<td><img alt="Stars" src="https://img.shields.io/github/stars/BHelpful/BHelpful?style=flat-square&labelColor=343b41"/></td>
-	<td><img alt="Forks" src="https://img.shields.io/github/forks/BHelpful/BHelpful?style=flat-square&labelColor=343b41"/></td>
-	<td><img alt="Issues" src="https://img.shields.io/github/issues/BHelpful/BHelpful?style=flat-square"/></td>
-	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/BHelpful/BHelpful?style=flat-square"/></td>
-	<td><img alt="Language" src="https://img.shields.io/github/languages/top/BHelpful/BHelpful?style=flat-square"/></td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/Andreasgdp/Game-Scoreboards"><b>💯 Game Scoreboards</b></a></td>
-	<td><img alt="Stars" src="https://img.shields.io/github/stars/Andreasgdp/Game-Scoreboards?style=flat-square&labelColor=343b41"/></td>
-	<td><img alt="Forks" src="https://img.shields.io/github/forks/Andreasgdp/Game-Scoreboards?style=flat-square&labelColor=343b41"/></td>
-	<td><img alt="Issues" src="https://img.shields.io/github/issues/Andreasgdp/Game-Scoreboards?style=flat-square"/></td>
-	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Andreasgdp/Game-Scoreboards?style=flat-square"/></td>
-	<td><img alt="Language" src="https://img.shields.io/github/languages/top/Andreasgdp/Game-Scoreboards?style=flat-square"/></td>
-      </tr>
-    </tbody>
-  </table>
-</center>
-
----
-
 <h3>👨‍💻 Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
