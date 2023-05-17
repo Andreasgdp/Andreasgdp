@@ -1,4 +1,4 @@
-## Hi there 👋 I'm <a href="https://andreasgdp.netlify.app/" target="_blank">Andreas Petersen</a>, Student and Developer!
+## Hi there 👋 I'm <a href="https://guldberg.dev/" target="_blank">Andreas Petersen</a>, Student and Developer!
 
 -   🔭 I’m currently working on a website [Wishing Plan][wp] in my Open Source repo [Wishing Plan Repo][wprepo]!
 -   📑 I’m workin on different projects in our organisation [BHelpful][bhelpful]!
