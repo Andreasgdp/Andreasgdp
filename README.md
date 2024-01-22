@@ -1,4 +1,4 @@
-## Hi there 👋 I'm <a href="https://guldberg.dev/" target="_blank">Andreas Petersen</a>, Student and Developer!
+## Hi there 👋 I'm <a href="https://guldberg.dev/" target="_blank">Andreas Petersen</a>, Robotics Engineer and Developer!
 
 -   🔭 I’m currently working on a website [MomentMeal][mm] in our Open Source repo [MomentMeal Repo][mmrepo]!
 -   🔭 I’m also working on a website [Wishing Plan][wp] in my Open Source repo [Wishing Plan Repo][wprepo]!
