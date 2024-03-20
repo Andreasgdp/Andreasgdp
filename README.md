@@ -1,11 +1,9 @@
 ## Hi there 👋 I'm <a href="https://guldberg.dev/" target="_blank">Andreas Petersen</a>, Robotics Engineer and Developer!
 
 -   🔭 I’m currently working on a website [MomentMeal][mm] in our Open Source repo [MomentMeal Repo][mmrepo]!
--   🔭 I’m also working on a website [Wishing Plan][wp] in my Open Source repo [Wishing Plan Repo][wprepo]!
--   📑 I’m workin on different projects in our organisation [BHelpful][bhelpful]!
 -   🌱 Doing my best to learn new things every day
 -   👯 Looking to collaborate with others
--   🥅 2023 Goals: Contribute more to Open Source projects
+-   🥅 This Year's Goals: Contribute more to Open Source projects
 -   ⚡ Fun fact: I love to draw and design
 
 ### 🤙 Connect with me
